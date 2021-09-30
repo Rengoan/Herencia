@@ -8,8 +8,8 @@ public class Test {
     
     public static void main(String[] args) {
         
-//        Empleado e1 = new Empleado();
-//        e1.direccion("Paseo");
+//        Empleado E1=new Empleado(3500, "Luis", 'm', 32, "Puerta del Angel, 31");
+//        System.out.println("Empleado = " + E1);
         
     }
 }

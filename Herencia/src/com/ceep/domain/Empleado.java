@@ -18,6 +18,8 @@ public class Empleado extends Persona {
         super(nombre, direccion, genero, edad);
     }
 
+    
+
    
 
 
